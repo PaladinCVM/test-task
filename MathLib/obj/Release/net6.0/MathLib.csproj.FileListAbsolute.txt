@@ -1,0 +1,12 @@
+E:\Code\.NET Projects\MathLib\MathLib\bin\Release\net6.0\MathLib.deps.json
+E:\Code\.NET Projects\MathLib\MathLib\bin\Release\net6.0\MathLib.dll
+E:\Code\.NET Projects\MathLib\MathLib\bin\Release\net6.0\MathLib.pdb
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\MathLib.csproj.AssemblyReference.cache
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\MathLib.AssemblyInfoInputs.cache
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\MathLib.AssemblyInfo.cs
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\MathLib.csproj.CoreCompileInputs.cache
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\MathLib.dll
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\refint\MathLib.dll
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\MathLib.pdb
+E:\Code\.NET Projects\MathLib\MathLib\obj\Release\net6.0\ref\MathLib.dll
